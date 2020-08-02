@@ -2727,7 +2727,7 @@ input, select, textarea {
 
 		#header:before {
 			height: calc(100% - 50px);
-			opacity: 0.0; //test
+			opacity: 0.15;
 			top: 0;
 		}
 
