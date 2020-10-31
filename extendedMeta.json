@@ -14,13 +14,13 @@
         },
         "about": {
             "me": "An electrical engineer looking to give power back to the people.",
-            "server": "Relays are on the cloud. The block producer is a server of my own.",
+            "server": "Relays are on the cloud. The block producer is a server of my own."
         },
     "my-pool-ids": {
-        "0": "acff1b97fad8a2be2e5ff68f52b231355e59ff51db62d3f49e70f736",
+        "0": "acff1b97fad8a2be2e5ff68f52b231355e59ff51db62d3f49e70f736"
     },
     "when-satured-then-recommend": {
-        "0": "89eba2781e5cd11ccda6be56503702a39e9941e522f04cd5bba22957",
+        "0": "89eba2781e5cd11ccda6be56503702a39e9941e522f04cd5bba22957"
     }
   } 
 }
