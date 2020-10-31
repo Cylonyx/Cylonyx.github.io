@@ -2,5 +2,6 @@
   "name": "Cylonyx Staking",
   "ticker": "CYOX",
   "description": "Supporting meaningful change in a fractured world. Ran by an electrical engineer.",
-  "homepage": "https://cylonyx.github.io/"
+  "homepage": "https://cylonyx.github.io/",
+  "extended": "https://cylonyx.github.io/extendedMeta.json"
 }
