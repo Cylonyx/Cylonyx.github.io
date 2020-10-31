@@ -5,56 +5,22 @@
         "location": "St. Paul, Minnesota",
         "social": {
             "twitter_handle": "Cylonyx",
-            "telegram_handle": "adapools_ops",
+            "telegram_handle": "Cylonyx",
             "facebook_handle": "",
-            "youtube_handle": "",
-            "twitch_handle": "",
+            "youtube_handle": "channel/UCEhRHeDKwvgrEi8gYddBRHA/",
+            "twitch_handle": "Cylonyx",
             "discord_handle": "",
             "github_handle": ""
         },
-        "company": {
-            "name": "Company Name",
-            "addr": "Street, Number",
-            "city": "London",
-            "country": "England",
-            "company_id": "123456789",
-            "vat_id": "GB123456789"
-        },
         "about": {
-            "me": "...",
-            "server": "Raspberry Pi Hosted at my Home in London 100MB up/down, solar energy.",
-            "company": "..."
+            "me": "An electrical engineer looking to give power back to the people.",
+            "server": "Relays are on the cloud. The block producer is a server of my own.",
         },
-        "rss": "http(s) url to valid RSS feed"
-    },
     "my-pool-ids": {
-        "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
-        "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
+        "0": "acff1b97fad8a2be2e5ff68f52b231355e59ff51db62d3f49e70f736",
     },
     "when-satured-then-recommend": {
-        "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
-        "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
-    },
-    "telegram-admin-handle": {
-        "0": "mnmnmnmnnmn"
-    },
-    "adapools_ext": {
-        "prometheus": {
-            "0": {
-                "name": "relay 1 eu",
-                "type": "relay",
-                "key": "example_get_own_on_adapools.org/connect"
-            },
-            "1": {
-                "name": "relay 2 usa",
-                "type": "relay",
-                "key": "example_get_own_on_adapools.org/connect"
-            },
-            "2": {
-                "name": "block producer home",
-                "type": "bp",
-                "key": "example_get_own_on_adapools.org/connect"
-            }
-        }
+        "0": "89eba2781e5cd11ccda6be56503702a39e9941e522f04cd5bba22957",
     }
+  } 
 }
