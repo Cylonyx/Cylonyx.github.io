@@ -1,7 +1,6 @@
 {
   "name": "Cylonyx Community Pool",
-  "ticker": "CYLNX",
   "description": "Building a better future, one block at a time. Minnesota based pool ran by an Electrical Engineer.",
-  "homepage": "https://cylonyx.github.io/",
-  "extended": "https://cylonyx.github.io/extendedMeta.json"
+  "ticker": "CYLNX",
+  "homepage": "https://cylonyx.github.io/"
 }
