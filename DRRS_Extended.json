@@ -1,0 +1,19 @@
+{
+  "info": {
+    "url_png_icon_64x64": "https://cylonyx.github.io/DRRS_LOGO_64x64.png",
+    "url_png_logo": "https://cylonyx.github.io/DRRS_LOGO.png",
+    "location": "Minnesota/Wisconsin",
+    "social": {
+      "twitter_handle": "DeadRabbitRS"
+    },
+    "about": {
+      "server": "100% bare metal with multiple relays."
+    },
+    "my-pool-ids": {
+      "0": "c840d2205cd8c86f38b6b53fed21328305ccc379bc7915a65bdb60ed"
+    },
+    "when-satured-then-recommend": {
+      "0": "822ee46a8ae3b3eb4376a7fa6325743cb56de823edd936b6d1868483"
+    }
+  }
+}
